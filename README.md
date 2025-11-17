@@ -179,5 +179,3 @@ Do NLP na análise de requisitos à automação scriptless e predição de defei
 ## 📚 Referências
 
 - **IQP Overview – Functional & Architecture – 2022**  
-- https://w3.ibm.com/services/lighthouse/spaces/view/ibm-ignite-quality-test/resources
-
